@@ -1,0 +1,80 @@
+{
+  "details":{
+    "image":"img/resume.jpg",
+    "address":"T Ashok Kumar<br>11-402A, GR school center<br>Mangalagiri-522503<br>Ph no:+91 9291319487<br><a href='mailto:ashoknobel00@gmail.com'>ashoknobel00@gmail.com</a><br>"
+  },
+  "fam":[
+    {
+      "role":"Father",
+      "name":"T Gnaneswara rao"
+    },
+    {
+      "role":"Mother",
+      "name":"T Satyavathi"
+    }
+  ],
+  "edu":[
+    {
+      "sno":"1",
+      "study":"B.tech",
+      "branch":"ECE",
+      "inst":"VRSEC",
+      "year":"2018-",
+      "per":"9.01"
+    },
+    {
+      "sno":"2",
+      "study":"Intermediate",
+      "branch":"MPC",
+      "inst":"VJ junior college",
+      "year":"2016-2018",
+      "per":"97.4"
+    },
+    {
+      "sno":"3",
+      "study":"SSC",
+      "branch":"-",
+      "inst":"CK high school",
+      "year":"2015-2016",
+      "per":"9.7"
+    }
+  ],
+  "info":[
+    {
+      "q":"hobbies",
+      "s":"Drawing, Coin collection, Listening to music, Photography, Learing new programming languages"
+    },
+    {
+      "q":"Goals",
+      "s":"To drive for Formula1, to start an IC fabrication comapany"
+    },
+    {
+      "q":"languages known",
+      "s":"Telugu, English"
+    },
+    {
+      "q":"Software familiarity",
+      "s":"C, Java, Python, HTML, CSS, jS, PHP, MySQL, Bootstrap"
+    },
+    {
+      "q":"Strengths",
+      "s":"Self confidence, Learning new things, Curious about the functioning of real life machines"
+    },
+    {
+      "q":"Achievements",
+      "s":"Student of the year award by LIC in my 8th & 9th standard"
+    },
+    {
+      "q":"Achievements",
+      "s":"2nd prize in Drawing conducted by Election commission of India"
+    },
+    {
+      "q":"Achievements",
+      "s":"3rd prize for our group in Engineer's day project 2019"
+    },
+    {
+      "q":"References",
+      "s":"available on request"
+    }
+  ]
+}
